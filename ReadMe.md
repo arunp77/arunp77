@@ -7,10 +7,6 @@
 <br> 📫 How to reach me: @arunp77@gmail.com
 
 
-I'm working on python programming language
-<br>I have learned MySQL data analysis tools.
-<br>I also have working experience in Power Bi.
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/arunsinp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-arun-kumar-pandey-5186a336) 
