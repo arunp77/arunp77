@@ -1,12 +1,15 @@
 # 💫 About Me:
+
 👋 Hi, I’m Arun Kumar Pandey. I am a physicst and worrking on problems related to astrophysics and cosmology. I research interest are magnethydrodynamics in the early universe, structure formation and cmb physics.
-👀 I’m interested in learning newthings, exploring new places and of course some good food.
-🌱 I’m currently learning handling big data using Excel, SQL and Python.
-💞️ I’m looking to collaborate on research topics related to my research interests. I also look forward to learn on data sceince.
-📫 How to reach me: @arunp77@gmail.com
+<br> 👀 I’m interested in learning newthings, exploring new places and of course some good food.
+<br> 🌱 I’m currently learning handling big data using Excel, SQL and Python.
+<br> 💞️ I’m looking to collaborate on research topics related to my research interests. I also look forward to learn on data sceince.
+<br> 📫 How to reach me: @arunp77@gmail.com
 
 
-I'm working on python programming language<br>I have learned MySQL data analysis tools.<br>I also have working experience in Power Bi.
+I'm working on python programming language
+<br>I have learned MySQL data analysis tools.
+<br>I also have working experience in Power Bi.
 
 
 ## 🌐 Socials:
