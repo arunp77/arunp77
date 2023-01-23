@@ -13,7 +13,9 @@ Founding member of [coding-vision]( https://arunsinp.github.io/vision-coding/).
 
 # 📊 GitHub Stats:
 [![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsinp)](https://github.com/arunsinp/github-readme-stats)
+<!----
 ![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+--->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunsinp&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinp&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -26,4 +28,7 @@ Founding member of [coding-vision]( https://arunsinp.github.io/vision-coding/).
 ---
 [![](https://visitcount.itsvg.in/api?id=arunsinp&icon=0&color=3)](https://visitcount.itsvg.in)
 
+<!------
+https://github.com/anuraghazra/github-readme-stats
+------>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
