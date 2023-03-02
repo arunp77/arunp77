@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Arun Kumar Pandey. I am a physicist working on problems related to astrophysics and cosmology. My research interests are magnetohydrodynamics in the early universe, structure formation, and CMB physics.<br>👀 I’m interested in learning new things, exploring new places, and of course, some good food.<br>🌱 I’m currently learning to handle big data using Excel, SQL, and Python.<br>👯 I’m looking to collaborate on research topics related to my research interests.<br>🤝 I also look forward to learning data science.<br>💬 Contact me via email at arunp77@gmail.com.<br>⚡ Fun fact: crazy about football.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunp77)
@@ -15,15 +14,15 @@
 
 - **Programming Languages:** 
   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-    - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-    - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
-    - ![Mathplotlib](https://img.shields.io/badge/Mathplotlib-gruvbox) 
-    - ![Seaborn](https://img.shields.io/badge/Seaborn-lightgrey)
-    - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-    - ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) 
-    - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
-    - ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
-    - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) 
+    - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Advanced-green)
+    - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Advanced-green)
+    - ![Mathplotlib](https://img.shields.io/badge/Mathplotlib-gruvbox) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Advanced-green)
+    - ![Seaborn](https://img.shields.io/badge/Seaborn-lightgrey) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Advanced-green)
+    - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner-green)
+    - ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner-green)
+    - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner-yellow)
+    - ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner-yellow)
+    - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner-yellow)
   - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
   - ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white)
 
@@ -34,7 +33,7 @@
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 
-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)![Skill Level](https://img.shields.io/badge/Skill%20Level-Expert-Green)
 
 - ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) 
