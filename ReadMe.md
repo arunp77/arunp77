@@ -17,7 +17,7 @@
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
     ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
     ![Mathplotlib](https://img.shields.io/badge/Mathplotlib-gruvbox)
-    ![Seaborn](https://img.shields.io/badge/Seaborn-lightgrey)
+    [<img src="https://img.shields.io/badge/Seaborn-informational.svg?logo=Seaborn">](https://seaborn.pydata.org/)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
     ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
@@ -37,8 +37,8 @@
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
- [<img src="https://img.shields.io/badge/Pages-yellow.svg?logo=Pages">](https://www.apple.com/pages)
- [<img src="https://img.shields.io/badge/Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
+ [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
+ [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
  
 
 - **Softwares and tools:** ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
