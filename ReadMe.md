@@ -9,6 +9,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77) 
 [<img src="https://img.shields.io/badge/Codeally-yellowgreen.svg?logo=Codeally">](https://codeally.io/cv/326816772d3a4cfd0afacb84)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
 
 # 💻 Tech Stack:
 
