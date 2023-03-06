@@ -37,7 +37,7 @@
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
- [<img src="https://img.shields.io/badge/Pages-blue.svg?logo=Pages">](https://www.apple.com/pages)
+ [<img src="https://img.shields.io/badge/Pages-yellow.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
  
 
