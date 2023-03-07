@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Arun Kumar Pandey. I am a physicist working on problems related to astrophysics and cosmology. My research interests are magnetohydrodynamics in the early universe, structure formation, and CMB physics.<br>👀 I’m interested in learning new things, exploring new places, and of course, some good food.<br>🌱 I’m currently learning to handle big data using Excel, SQL, and Python.<br>👯 I’m looking to collaborate on research topics related to my research interests.<br>🤝 I also look forward to learning data science.<br>💬 Contact me via email at arunp77@gmail.com.<br>⚡ Fun fact: crazy about football.
+👋 Hi, I’m Arun Kumar Pandey. As a data enthusiast, I have always been fascinated by the power of data to reveal hidden insights and drive impactful decisions. With a passion for problem-solving and a strong technical background, I am dedicated to leveraging data-driven approaches to tackle complex challenges and drive innovation. Whether it's building predictive models, designing experiments, or visualizing data, I am always eager to explore new techniques and tools to improve my skills and deepen my understanding of the field. Ultimately, my goal is to use my expertise in data science to make a positive impact on society and help organizations make more informed and effective decisions.<br>
+👀 I’m interested in learning new things, exploring new places, and of course, some good food.<br>
+🌱 I’m currently learning to handle big data using Excel, SQL, and Python.<br>
+👯 I’m looking to collaborate on research topics related to my research interests.<br>
+🤝 I also look forward to learning data science.<br>
+💬 Contact me via email at arunp77@gmail.com.<br>
+⚡ Fun fact: crazy about football.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
