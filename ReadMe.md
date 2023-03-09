@@ -14,7 +14,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77) 
 [<img src="https://img.shields.io/badge/Codeally-yellowgreen.svg?logo=Codeally">](https://codeally.io/cv/326816772d3a4cfd0afacb84)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23F96854.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
 
 # 💻 Tech Stack:
 
@@ -29,10 +29,11 @@
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) 
-  - ![Mathematica](https://img.shields.io/badge/Mathematica-%23FF6F00.svg?style=flat-square&logo=Mathematica&logoColor=red)
+  - [![Mathematica](https://img.shields.io/badge/Mathematica-%23F7DF1E.svg?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
   - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
   - ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white)
   - ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) 
+
 
 
 - **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
@@ -67,7 +68,8 @@
 [![](https://visitcount.itsvg.in/api?id=arunsinp&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
+  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23F96854.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
+
 
 
 Founding member of [coding-vision]( https://arunsinp.github.io/vision-coding/).
