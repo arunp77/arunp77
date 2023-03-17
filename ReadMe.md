@@ -36,20 +36,21 @@
   - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
 
-
-
 - **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
 - **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Beginner](https://img.shields.io/badge/Level-Beginner-green)
+
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
+ ![Expert](https://img.shields.io/badge/Level-expert-yellow)
+
  
 
 - **Softwares and tools:** ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
