@@ -7,6 +7,7 @@
 📍 **Address:** Local-universe/Pisces–Cetus-Supercluster-Complex/Virgo-Supercluster/Milky-way-Galaxy/Solar-system/Earth/Europe/Germany/ <br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arunp77_)
@@ -42,14 +43,14 @@
 [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
 - **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Beginner](https://img.shields.io/badge/Level-Beginner-green)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Beginner](https://img.shields.io/badge/Beginner-green)
 
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
- ![Expert](https://img.shields.io/badge/Level-expert-yellow)
+ ![Expert](https://img.shields.io/badge/expert-yellow)
 
  
 
