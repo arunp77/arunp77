@@ -30,10 +30,9 @@
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) 
-  - [![Mathematica](https://img.shields.io/badge/Mathematica-%23F7DF1E.svg?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
-  - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-  - ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white)
-  - ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) 
+  - [![Mathematica-Expert](https://img.shields.io/badge/Mathematica-Expert-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
+  - ![C-Beginner](https://img.shields.io/badge/C-Beginner-blue?style=flat-square&logo=c&logoColor=white)
+  - ![Fortran-Beginner](https://img.shields.io/badge/Fortran-Beginner-blue?style=flat-square&logo=fortran&logoColor=white)
   - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
 
