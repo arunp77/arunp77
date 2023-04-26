@@ -31,9 +31,9 @@
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) 
-  - [![Mathematica-Expert](https://img.shields.io/badge/Mathematica-Expert-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
+  - [![Mathematica](https://img.shields.io/badge/Mathematica-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
   - ![C-Beginner](https://img.shields.io/badge/C-Beginner-blue?style=flat-square&logo=c&logoColor=white)
-  - ![Fortran-Beginner](https://img.shields.io/badge/Fortran-Beginner-blue?style=flat-square&logo=fortran&logoColor=white)
+  - ![Fortran](https://img.shields.io/badge/Fortran-blue?style=flat-square&logo=fortran&logoColor=white)
   - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
 
@@ -43,17 +43,15 @@
 [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
 - **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Beginner](https://img.shields.io/badge/Beginner-green)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
- ![Expert](https://img.shields.io/badge/expert-yellow)
 
  
-
 - **Softwares and tools:** ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
  [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
