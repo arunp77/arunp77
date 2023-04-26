@@ -57,6 +57,7 @@
 - **Softwares and tools:** ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
  [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
+ [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
  
  
 
