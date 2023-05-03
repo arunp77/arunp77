@@ -56,8 +56,14 @@
  [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
  [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
- 
- 
+
+
+# 🙋 Spoken languages
+
+  - German ★☆☆☆☆
+  - Hindi ★★★★★
+  - English ★★★★☆
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
