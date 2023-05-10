@@ -1,7 +1,7 @@
 # 💫 **About Me:**
 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br>
 
-📊 **Ein Daten-Enthusiast:** As a data enthusiast, I have always been fascinated by the power of data to reveal hidden insights and drive impactful decisions. With a passion for problem-solving and a strong technical background, I am dedicated to leveraging data-driven approaches to tackle complex challenges and drive innovation. Whether it's building predictive models, designing experiments, or visualizing data, I am always eager to explore new techniques and tools to improve my skills and deepen my understanding of the field. Ultimately, my goal is to use my expertise in data science to make a positive impact on society and help organizations make more informed and effective decisions.<br>
+📊 **ein Daten-Enthusiast:** As a data enthusiast, I have always been fascinated by the power of data to reveal hidden insights and drive impactful decisions. With a passion for problem-solving and a strong technical background, I am dedicated to leveraging data-driven approaches to tackle complex challenges and drive innovation. Whether it's building predictive models, designing experiments, or visualizing data, I am always eager to explore new techniques and tools to improve my skills and deepen my understanding of the field. Ultimately, my goal is to use my expertise in data science to make a positive impact on society and help organizations make more informed and effective decisions.<br>
 
 🔎 A great learner. <br>
 
