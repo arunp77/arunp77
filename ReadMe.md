@@ -94,7 +94,7 @@
 
 
 
-Founding member of [Coding-vision](https://arunsinp.github.io/Coding-vision/).
+Founding member of [Coding-vision](https://arunsinp.github.io/Vision-Analytics/).
 <!------
 https://github.com/anuraghazra/github-readme-stats
 ------>
