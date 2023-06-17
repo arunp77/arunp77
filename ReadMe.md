@@ -1,3 +1,5 @@
+Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts I have written about the projects I have been working on.
+
 # 💫 **About Me:**
 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br>
 
