@@ -96,7 +96,7 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
 
 
 
-Founding member of [Vision Analytics](https://arunsinp.github.io/Vision-Analytics/).
+Founding member of [Vision Analytica](https://arunsinp.github.io/Vision-Analytics/).
 <!------
 https://github.com/anuraghazra/github-readme-stats
 ------>
