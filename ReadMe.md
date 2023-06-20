@@ -13,7 +13,6 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
 
 📍 **Address:** Local-universe/Pisces–Cetus-Supercluster-Complex/Virgo-Supercluster/Milky-way-Galaxy/Solar-system/Earth/Europe/Germany/ <br>
 
-
 ## 🌐 **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arunp77_)
@@ -49,7 +48,6 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
   
   - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
-
 - **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
@@ -59,26 +57,16 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
 - **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
 
- 
 - **Softwares and tools:** [<img src="https://img.shields.io/badge/looker-studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
  [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
  [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
-
-
-# 🙋 Spoken languages
-
-  - German ★☆☆☆☆
-  - Hindi ★★★★★
-  - English ★★★★☆
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
