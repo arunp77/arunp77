@@ -91,9 +91,12 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
 ---
 [![](https://visitcount.itsvg.in/api?id=arunsinp&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23F96854.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
+## 💰 Support My Open Source Contributions
 
+If you find my open-source project helpful and would like to support its development, you can contribute by buying me a coffee. Your support will go a long way in helping me maintain and enhance my projects.
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/87801682)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arunp77)
 
 
 Founding member of [Vision Analytica](https://arunsinp.github.io/Vision-Analytics/).
