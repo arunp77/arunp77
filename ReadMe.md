@@ -43,10 +43,6 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
   - [![Mathematica](https://img.shields.io/badge/Mathematica-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
   
-  - ![C-Beginner](https://img.shields.io/badge/C-Beginner-blue?style=flat-square&logo=c&logoColor=white)
-  
-  - ![Fortran](https://img.shields.io/badge/Fortran-blue?style=flat-square&logo=fortran&logoColor=white)
-  
   - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
 - **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
