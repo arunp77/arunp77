@@ -37,7 +37,8 @@ Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
     
-  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square&logo=TensorFlow)
+  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/)
+    ![Statsmodels](https://img.shields.io/badge/Statsmodels-%230099EE.svg?style=flat-square&logo=statsmodels&logoColor=white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
   - [![Mathematica](https://img.shields.io/badge/Mathematica-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
