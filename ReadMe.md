@@ -1,7 +1,5 @@
 # 💫 **About Me:**
 
-<img width="359" alt="Screenshot 2023-06-27 at 11 46 40 AM" src="https://github.com/arunsinp/arunsinp/assets/15100077/266545c3-185e-414c-93c1-1a70456a6eba">
-
 (Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts I have written about the projects I have been working on.)
 
 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br>
