@@ -1,8 +1,9 @@
-Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts I have written about the projects I have been working on.
+# 💫 **About Me:**
 
 <img width="359" alt="Screenshot 2023-06-27 at 11 46 40 AM" src="https://github.com/arunsinp/arunsinp/assets/15100077/266545c3-185e-414c-93c1-1a70456a6eba">
 
-# 💫 **About Me:**
+(Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts I have written about the projects I have been working on.)
+
 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br>
 
 📊 As a data enthusiast, I have always been fascinated by the power of data to reveal hidden insights and drive impactful decisions. With a passion for problem-solving and a strong technical background, I am dedicated to leveraging data-driven approaches to tackle complex challenges and drive innovation. Whether it's building predictive models, designing experiments, or visualizing data, I am always eager to explore new techniques and tools to improve my skills and deepen my understanding of the field. Ultimately, my goal is to use my expertise in data science to make a positive impact on society and help organizations make more informed and effective decisions.<br>
