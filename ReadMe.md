@@ -49,7 +49,6 @@
 - **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
 - **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
