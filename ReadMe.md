@@ -62,7 +62,7 @@
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
 
-- **Softwares and tools:** 
+- **Software and tools:** 
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
  [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
