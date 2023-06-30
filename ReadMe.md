@@ -31,9 +31,9 @@
 - **Programming Languages:** 
   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
-    ![Mathplotlib](https://img.shields.io/badge/Mathplotlib-gruvbox)
-    [<img src="https://img.shields.io/badge/Seaborn-informational.svg?logo=Seaborn">](https://seaborn.pydata.org/)
+    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+    [![Matplotlib](https://img.shields.io/badge/Matplotlib-blue.svg?logo=python&logoColor=white)](https://matplotlib.org)
+    [![Seaborn](https://img.shields.io/badge/Seaborn-blue.svg?logo=python&logoColor=white)](https://seaborn.pydata.org)
     ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
