@@ -49,10 +49,8 @@
 - **Visualization:** [<img src="https://img.shields.io/badge/Power Bi-informational.svg?logo=Power Bi">](https://powerbi.microsoft.com/)
 [<img src="https://img.shields.io/badge/Tableau-informational.svg?logo=tableau">](https://www.tableau.com/) [<img src="https://img.shields.io/badge/looker studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
 
-- **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
-![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-[<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
+- **DATABase & tools:** ![SQL](https://img.shields.io/badge/SQL-F7DF1E.svg?style=flat-square&logo=sql&logoColor=orange)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
 - **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
