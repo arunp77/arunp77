@@ -44,7 +44,7 @@
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
   - [![Mathematica](https://img.shields.io/badge/Mathematica-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
   
-  - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
+  <!------- ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white) ---->
 
 - **Visualization:** [<img src="https://img.shields.io/badge/Power Bi-informational.svg?logo=Power Bi">](https://powerbi.microsoft.com/)
 [<img src="https://img.shields.io/badge/Tableau-informational.svg?logo=tableau">](https://www.tableau.com/) [<img src="https://img.shields.io/badge/looker studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
