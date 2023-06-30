@@ -46,6 +46,9 @@
   
   - ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white)
 
+- **Visualization:** [<img src="https://img.shields.io/badge/Power Bi-informational.svg?logo=Power Bi">](https://powerbi.microsoft.com/)
+[<img src="https://img.shields.io/badge/Tableau-informational.svg?logo=tableau">](https://www.tableau.com/) [<img src="https://img.shields.io/badge/looker studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
+
 - **DATABase & tools:** ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
@@ -59,7 +62,7 @@
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
 
-- **Softwares and tools:** [<img src="https://img.shields.io/badge/looker-studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
+- **Softwares and tools:** 
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
  [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
