@@ -21,6 +21,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arunp77_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77)
+[![FlowCV](https://img.shields.io/badge/My_Resume-blue?style=flat-square&logo=resume-link&logoColor=white&link=https://flowcv.me/arunp77)](https://flowcv.me/arunp77)
+
 
 ## 📚 Blog post
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunp77)
