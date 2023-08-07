@@ -2,7 +2,15 @@
 
 <img width="888" alt="image" src="https://github.com/arunsinp/arunsinp/assets/15100077/68fb1cfb-6d66-496e-a14a-2bbb939a8776">
 
-(Please visit my [blog](https://medium.com/@arunp77) to explore some of the posts I have written about the projects I have been working on.)
+----
+
+<p> Few resources are as follows:</p>
+<ul>
+  <li><a href="https://arunsinp.github.io/MonteCarlo-simulation/">Monte-Carlo simulation in Python</a></li>
+  <li>Please visit <a href="https://medium.com/@arunp77">My blog</a> to explore some of the posts I have written about the projects I have been working on.</li>
+</ul>
+
+---- 
 
 <!----- 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br> /-----> 
 
