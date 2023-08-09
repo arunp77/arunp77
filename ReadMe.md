@@ -38,7 +38,7 @@
 [<img src="https://img.shields.io/badge/Codeally-yellowgreen.svg?logo=Codeally">](https://codeally.io/cv/326816772d3a4cfd0afacb84)
 [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
 
-# 💻 **Tech Stack:**
+## 💻 **Tech Stack:**
 
 - **Programming Languages:** 
   - ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
@@ -78,16 +78,16 @@
  [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
  [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arunsinp&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinp&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arunsinp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arunsinp&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arunsinp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arunsinp&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
