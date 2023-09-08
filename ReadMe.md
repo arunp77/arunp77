@@ -79,15 +79,16 @@
  [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arunsinp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arunsinp&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arunsinp&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arunsinp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arunsinp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arunsinp&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
