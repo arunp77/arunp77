@@ -69,7 +69,17 @@
 - **DATABase & tools:** ![SQL](https://img.shields.io/badge/SQL-F7DF1E.svg?style=flat-square&logo=sql&logoColor=orange)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
-- **Front End Programming Languages:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+- **Technology Stack:**
+  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=flat-square&logo=amazon-s3&logoColor=white)
+  ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Snowflake](https://img.shields.io/badge/Snowflake-%23232F3E.svg?style=flat-square&logo=snowflake&logoColor=white)
+  ![Snowpipe](https://img.shields.io/badge/Snowpipe-%23232F3E.svg?style=flat-square&logo=snowflake&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
+
+
+- **Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
