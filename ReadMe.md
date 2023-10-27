@@ -6,13 +6,13 @@
 
 <p> Few resources are as follows:</p>
 <ul>
-  <li><a href="https://arunsinp.github.io/MonteCarlo-simulation/">Monte-Carlo simulation in Python</a></li>
+  <li><a href="https://arunp77.github.io/MonteCarlo-simulation/">Monte-Carlo simulation in Python</a></li>
   <li>Please visit <a href="https://medium.com/@arunp77">My blog</a> to explore some of the posts I have written about the projects I have been working on.</li>
 </ul>
 
 ### Click below to see my portfolio: 
 
-[![Alt Text](https://raw.githubusercontent.com/arunsinp/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunsinp.github.io/Arun-Kumar-Pandey/)
+[![Alt Text](https://raw.githubusercontent.com/arunp77/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/Arun-Kumar-Pandey/)
 
 
 ---- 
@@ -94,19 +94,19 @@
  [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arunsinp&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arunsinp&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsinp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arunp77&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arunsinp&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arunp77&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arunsinp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arunsinp&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arunp77&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 💰 Support My Open Source Contributions
 
@@ -116,7 +116,7 @@ If you find my open-source project helpful and would like to support its develop
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arunp77)
 
 
-Founding member of [Vision Analytica](https://arunsinp.github.io/Vision-Analytics/).
+Founding member of [Vision Analytica](https://arunp77.github.io/Vision-Analytics/).
 <!------
 https://github.com/anuraghazra/github-readme-stats
 ------>
