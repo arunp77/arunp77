@@ -10,7 +10,7 @@
   <li>Please visit <a href="https://medium.com/@arunp77">My blog</a> to explore some of the posts I have written about the projects I have been working on.</li>
 </ul>
 
-### Click below to see my portfolio: 
+### <a href="https://arunp77.github.io/Arun-Kumar-Pandey/" target="_blanck">Click below to see my portfolio</a>: 
 
 [![Alt Text](https://raw.githubusercontent.com/arunp77/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/Arun-Kumar-Pandey/)
 
