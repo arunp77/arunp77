@@ -13,7 +13,7 @@
 
 ### <a href="https://arunp77.github.io/Arun-Kumar-Pandey/" target="_blanck">Click below to see my portfolio</a>: 
 
-[![Alt Text](https://raw.githubusercontent.com/arunp77/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/Arun-Kumar-Pandey/){:target="_blank"}
+[![Alt Text](https://raw.githubusercontent.com/arunp77/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/Arun-Kumar-Pandey/)
 
 
 ---- 
