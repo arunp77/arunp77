@@ -7,13 +7,13 @@
 <p> Few resources are as follows:</p>
 <ul>
   <li>Application of <a href="https://arunp77.github.io/MonteCarlo-simulation/" target="_blanck">Monte-Carlo simulation</a> to finance.</li>
-  <li>Please visit <a href="https://medium.com/@arunp77" target="_blanck">My blog</a> to explore some of the posts I have written about the projects I have been working on.</li>
+  <li>Please visit <a href="https://medium.com/@arunp77" target="_blanck">My blog</a> to explore posts on Data science, Data engineering, and others.</li>
   <li>Please visit my <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a></li>
 </ul>
 
 ### <a href="https://arunp77.github.io/Arun-Kumar-Pandey/" target="_blanck">Click below to see my portfolio</a>: 
 
-[![Alt Text](https://raw.githubusercontent.com/arunp77/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/Arun-Kumar-Pandey/)
+[![Alt Text](https://raw.githubusercontent.com/arunp77/Arun-Kumar-Pandey/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/Arun-Kumar-Pandey/){:target="_blank"}
 
 
 ---- 
