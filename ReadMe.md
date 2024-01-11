@@ -1,6 +1,6 @@
 # 💫 **About Me:**
 
-<img width="888" alt="image" src="https://github.com/arunsinp/arunsinp/assets/15100077/68fb1cfb-6d66-496e-a14a-2bbb939a8776">
+<img width="888" alt="image" src="https://github.com/arunp77/arunp77/assets/15100077/68fb1cfb-6d66-496e-a14a-2bbb939a8776">
 
 ----
 
