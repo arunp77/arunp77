@@ -28,7 +28,8 @@
 
 ⚡ **Fun fact:** crazy about football.<br>
 
-📍 **Address:** Local-universe/Pisces–Cetus-Supercluster-Complex/Virgo-Supercluster/Milky-way-Galaxy/Solar-system/Earth/Europe/Germany/ <br>
+📍 **Address:** Observable Universe/Virgo Supercluster/Milky Way Galaxy/Solar System/Earth/Europe/Germany <br>
+
 
 ## 🌐 **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
