@@ -126,6 +126,7 @@ If you find my open-source project helpful and would like to support its develop
 
 
 Founding member of [Vision Analytica](https://arunp77.github.io/Vision-Analytics/).
+
 <!------
 https://github.com/anuraghazra/github-readme-stats
 ------>
