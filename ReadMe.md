@@ -87,7 +87,10 @@
 - **Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%23646464.svg?style=flat-square&logo=beautifulsoup&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2361DAFB.svg?style=flat-square&logo=selenium&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-%23000000.svg?style=flat-square&logo=plotly&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2361DAFB.svg?style=flat-square&logo=selenium&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-%23000000.svg?style=flat-square&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 - **Bash and shell Scripting:** ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)  ![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=flat-square&logo=apiary&logoColor=white)  ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-%2343853D.svg?style=flat-square&logo=jenkins&logoColor=white)  ![Unit Test](https://img.shields.io/badge/Unit%20Test-%2343853D.svg?style=flat-square&logo=unittest&logoColor=white) 
 
