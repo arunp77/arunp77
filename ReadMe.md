@@ -2,7 +2,7 @@
 
 ![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/9ae48475-a048-4b6f-877b-277856737cc9)
 
-
+<a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio</a>
 ----
 
 <p> Few resources are as follows:</p>
@@ -12,10 +12,7 @@
   <li>Please visit my <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a></li>
 </ul>
 
-### <a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio</a>: 
-
-[![Alt Text](https://raw.githubusercontent.com/arunp77/arunp77.github.io/main/assets/img/Portfolio-readme.gif)](https://arunp77.github.io/)
-
+Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 
 ---- 
 
@@ -33,6 +30,7 @@
 
 
 ## 🌐 **Socials:**
+I am also available on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arunp77_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
