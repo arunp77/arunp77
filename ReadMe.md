@@ -1,6 +1,7 @@
 # 💫 **About Me:**
 
-https://github.com/user-attachments/assets/aa83f182-506d-4e59-b41c-2753951f1396
+![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/9ae48475-a048-4b6f-877b-277856737cc9)
+
 
 ----
 
