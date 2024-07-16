@@ -18,24 +18,24 @@ Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 <!----- 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br> /-----> 
 
-📊 As a data enthusiast, I have always been fascinated by the power of data to reveal hidden insights and drive impactful decisions. With a passion for problem-solving and a strong technical background, I am dedicated to leveraging data-driven approaches to tackle complex challenges and drive innovation. Whether it's building predictive models, designing experiments, or visualizing data, I am always eager to explore new techniques and tools to improve my skills and deepen my understanding of the field. Ultimately, my goal is to use my expertise in data science to make a positive impact on society and help organizations make more informed and effective decisions.<br>
+🔭 I’m a data enthusiast with a background in astrophysics.
 
-🔎 A great learner. <br>
+🌱 I’m passionate about data analytics, data engineering, machine learning, and deep learning.
 
-📨 **Contact me:** [arunp77@gmail.com](arunp77@gmail.com).<br>
+💬 Ask me about data analysis, machine learning, and ETL pipelines.
+
+📫 You can reach me at [arunp77@gmail.com](arunp77@gmail.com).
+
+🌐 **Socials:** I am also available on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arunp77_)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77)
 
 ⚡ **Fun fact:** crazy about football.<br>
 
 📍 **Address:** Observable Universe/Virgo Supercluster/Milky Way Galaxy/Solar System/Earth/Europe/Germany <br>
 
-
-## 🌐 **Socials:**
-I am also available on: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arunp77_)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77)
-[![FlowCV](https://img.shields.io/badge/My_Resume-blue?style=flat-square&logo=resume-link&logoColor=white&link=https://flowcv.me/arunp77)](https://flowcv.me/arunp77)
+Feel free to explore my repositories and projects, and don't hesitate to reach out for collaboration or discussions!
 
 
 ## 📚 Blog post
@@ -119,9 +119,7 @@ I am also available on:
 ---
 [![](https://visitcount.itsvg.in/api?id=arunp77&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-## 💰 Support My Open Source Contributions
-
-If you find my open-source project helpful and would like to support its development, you can contribute by buying me a coffee. Your support will go a long way in helping me maintain and enhance my projects.
+## 💰 My Open Source Contributions
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/87801682)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arunp77)
