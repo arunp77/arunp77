@@ -2,6 +2,9 @@
 
 <img width="888" alt="image" src="https://github.com/arunp77/arunp77/assets/15100077/68fb1cfb-6d66-496e-a14a-2bbb939a8776">
 
+![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/6a43c833-45c7-464b-8b77-6ed0363164d2)
+
+
 ----
 
 <p> Few resources are as follows:</p>
