@@ -12,7 +12,7 @@
   <li>Please visit my <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a></li>
 </ul>
 
-Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
+Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 🔗
 
 ---- 
 
