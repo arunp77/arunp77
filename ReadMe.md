@@ -40,7 +40,7 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 
 ## 📚 Blog post
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunp77)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/4bjfpMpD) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FhK7F5Sd) 
 [<img src="https://img.shields.io/badge/Codeally-yellowgreen.svg?logo=Codeally">](https://codeally.io/cv/326816772d3a4cfd0afacb84)
 [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
 
