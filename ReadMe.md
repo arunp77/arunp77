@@ -119,12 +119,6 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 ---
 [![](https://visitcount.itsvg.in/api?id=arunp77&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
---- 
-## Weekly Development Breakdown 📊
-
-<script src="https://gist.github.com/arunp77/45dbb8de3df542091a875cfc5ef30051.js"></script>
-
-
 ## 💰 My Open Source Contributions
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/87801682)
