@@ -55,10 +55,10 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
     [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
     
-  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2343853D.svg?style=flat-square&logo=python&logoColor=white)
+  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2343853D.svg?style=flat-square&logo=python&logoColor=white)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
     ![Statsmodels](https://img.shields.io/badge/Statsmodels-%230099EE.svg?style=flat-square&logo=statsmodels&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
     
   - [![Mathematica](https://img.shields.io/badge/Mathematica-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
   
@@ -80,7 +80,12 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
   ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Snowflake](https://img.shields.io/badge/Snowflake-%23232F3E.svg?style=flat-square&logo=snowflake&logoColor=white)
   ![Snowpipe](https://img.shields.io/badge/Snowpipe-%23232F3E.svg?style=flat-square&logo=snowflake&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) 
+
+- **Version Control: ** ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
 
 
 - **Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
@@ -89,7 +94,7 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 ![Selenium](https://img.shields.io/badge/Selenium-%2361DAFB.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-%23000000.svg?style=flat-square&logo=plotly&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 
 - **Bash and shell Scripting:** ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)  ![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=flat-square&logo=apiary&logoColor=white)  ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-%2343853D.svg?style=flat-square&logo=jenkins&logoColor=white)  ![Unit Test](https://img.shields.io/badge/Unit%20Test-%2343853D.svg?style=flat-square&logo=unittest&logoColor=white) 
 
