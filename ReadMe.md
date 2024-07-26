@@ -40,8 +40,6 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 
 ## 📚 Blog post
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunp77)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FhK7F5Sd) 
-[<img src="https://img.shields.io/badge/Codeally-yellowgreen.svg?logo=Codeally">](https://codeally.io/cv/326816772d3a4cfd0afacb84)
 [![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
 
 ## 💻 **Tech Stack:**
@@ -55,24 +53,29 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
     [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
     ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
     
-  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2343853D.svg?style=flat-square&logo=python&logoColor=white)
+  - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/)
+    ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+    ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2343853D.svg?style=flat-square&logo=python&logoColor=white)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
     ![Statsmodels](https://img.shields.io/badge/Statsmodels-%230099EE.svg?style=flat-square&logo=statsmodels&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+    ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
     
   - [![Mathematica](https://img.shields.io/badge/Mathematica-F7DF1E?style=plastic&logo=wolfram-mathematica&logoColor=black)](https://www.wolfram.com/mathematica/)
   
   <!------- ![Swift-Newbie](https://img.shields.io/badge/Swift-Newbie-F54A2A?style=flat-square&logo=swift&logoColor=white) ---->
 
-- **Visualization:** [<img src="https://img.shields.io/badge/Power Bi-informational.svg?logo=Power Bi">](https://powerbi.microsoft.com/)
-[<img src="https://img.shields.io/badge/Tableau-informational.svg?logo=tableau">](https://www.tableau.com/) [<img src="https://img.shields.io/badge/looker studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
-
 - **DATABase & tools:** ![SQL](https://img.shields.io/badge/SQL-F7DF1E.svg?style=flat-square&logo=sql&logoColor=orange)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-blue?style=flat-square&logo=google-cloud) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) [<img src="https://img.shields.io/badge/MS Excel-blue.svg?logo=Excel">](https://www.office.com/excel)
 
-- **Big Data:** ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white) ![Scala Spark](https://img.shields.io/badge/Scala%20Spark-%23DC322F.svg?style=flat-square&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat-square&logo=apache-kafka&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-%2376B043.svg?style=flat-square&logo=neo4j&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-%23FBC02D.svg?style=flat-square&logo=apache&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)  
-
-- **Technology Stack:**
+- **Data Engineering:**
+  ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
+  ![Scala Spark](https://img.shields.io/badge/Scala%20Spark-%23DC322F.svg?style=flat-square&logo=apache-spark&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat-square&logo=apache-kafka&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/Neo4j-%2376B043.svg?style=flat-square&logo=neo4j&logoColor=white)
+  ![Hadoop](https://img.shields.io/badge/Hadoop-%23FBC02D.svg?style=flat-square&logo=apache&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
   ![EC2](https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -80,13 +83,15 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
   ![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Snowflake](https://img.shields.io/badge/Snowflake-%23232F3E.svg?style=flat-square&logo=snowflake&logoColor=white)
   ![Snowpipe](https://img.shields.io/badge/Snowpipe-%23232F3E.svg?style=flat-square&logo=snowflake&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) 
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+  [<img src="https://img.shields.io/badge/Docker-blue.svg?logo=docker">](https://hub.docker.com/)
+  [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
 
-- **Version Control: ** ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
+- **Version Control:** ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
-
 
 - **Web Development:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -96,18 +101,19 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 
-- **Bash and shell Scripting:** ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)  ![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=flat-square&logo=apiary&logoColor=white)  ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-%2343853D.svg?style=flat-square&logo=jenkins&logoColor=white)  ![Unit Test](https://img.shields.io/badge/Unit%20Test-%2343853D.svg?style=flat-square&logo=unittest&logoColor=white) 
+- **Bash and shell Scripting:**
+  ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![APIs](https://img.shields.io/badge/APIs-%23007ACC.svg?style=flat-square&logo=apiary&logoColor=white)
+  ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-%2343853D.svg?style=flat-square&logo=jenkins&logoColor=white)
+  ![Unit Test](https://img.shields.io/badge/Unit%20Test-%2343853D.svg?style=flat-square&logo=unittest&logoColor=white) 
+
+- **Visualization:** [<img src="https://img.shields.io/badge/Power Bi-informational.svg?logo=Power Bi">](https://powerbi.microsoft.com/)
+[<img src="https://img.shields.io/badge/Tableau-informational.svg?logo=tableau">](https://www.tableau.com/) [<img src="https://img.shields.io/badge/looker studio-blue.svg?logo=looker">](https://lookerstudio.google.com/)
 
 - **Documentation:** ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) 
  [<img src="https://img.shields.io/badge/MS word-blue.svg?logo=msword">](https://www.office.com/word)
  [<img src="https://img.shields.io/badge/Mac Pages-important.svg?logo=Pages">](https://www.apple.com/pages)
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
-
-- **Software and tools:** 
- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
- [<img src="https://img.shields.io/badge/dockerhub-blue.svg?logo=docker">](https://hub.docker.com/)
- [<img src="https://img.shields.io/badge/deepnote-white.svg?logo=deepnote">](https://deepnote.com/)
- [<img src="https://img.shields.io/badge/bitbucket-blue.svg?logo=bitbucket">](https://bitbucket.org/arunp77/python/src/main/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
