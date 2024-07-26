@@ -14,7 +14,7 @@
 
 Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 
----- 
+--------------------------------------------------------------------------------------------
 
 <!----- 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br> /-----> 
 
@@ -37,10 +37,7 @@ Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 Feel free to explore my repositories and projects, and don't hesitate to reach out for collaboration or discussions!
 
-
-## 📚 Blog post
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arunp77)
-[![Patreon](https://img.shields.io/badge/Patreon-%23FF424D.svg?style=plastic&logo=patreon&logoColor=white)](https://patreon.com/user?u=87801682)
+--------------------------------------------------------------------------------------------
 
 ## 💻 **Tech Stack:**
 
