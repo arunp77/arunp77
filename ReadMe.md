@@ -7,6 +7,7 @@
 
 <p> Few resources are as follows:</p>
 <ul>
+  <li>Please have a look on my open source python library at <a href="https://www.npmjs.com/package/mathlib-npm-new" target="_blanck">npm package manager website</a>.</li>
   <li>Application of <a href="https://arunp77.github.io/MonteCarlo-simulation/" target="_blanck">Monte-Carlo simulation</a> to finance.</li>
   <li>Please visit <a href="https://arunp77.medium.com/" target="_blanck">My blog</a> to explore posts on Data science, Data engineering, and others.</li>
   <li>Please visit my <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a></li>
