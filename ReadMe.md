@@ -3,6 +3,8 @@
 ![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/9ae48475-a048-4b6f-877b-277856737cc9)
 
 <a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio 🔗</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Arun+Kumar+Pandey;+Welcome+to+My+Profile!;Love+to+learning+new+things+;Data+Science+Data+enthusiast+)](https://git.io/typing-svg)
 ----
 
 <p> Few resources are as follows:</p>
@@ -115,6 +117,8 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
  [<img src="https://img.shields.io/badge/Mac Keynotes-blue.svg?logo=Keynotes">](https://www.apple.com/keynotes)
 
 ## 📊 GitHub Stats:
+
+[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunp77&bg_color=090811&color=e3eb44&line=b8119e&point=e9d6dc&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-readme-stats.vercel.app/api?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunp77&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
