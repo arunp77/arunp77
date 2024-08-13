@@ -49,7 +49,6 @@ Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 Feel free to explore my repositories and projects, and don't hesitate to reach out for collaboration or discussions!
 
---------------------------------------------------------------------------------------------
 
 ## 💻 **Tech Stack:**
 
