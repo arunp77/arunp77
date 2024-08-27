@@ -2,8 +2,12 @@
 
 ![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/9ae48475-a048-4b6f-877b-277856737cc9)
 
-<a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio 🔗</a>
+<!---<a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio 🔗</a>--->
+
+
 <link rel="stylesheet" href="style.css">
+
+<button class="button"><a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio 🔗</a></button>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=500&color=F7D34E&width=435&lines=Hey+there!+%F0%9F%91%8B++I+am+Arun+Kumar+Pandey.;Welcome+to+my+profile.+;I+am+interested+in+Data+Science;Cosmology%2C+Astrophysics+and+Math)]()
 <!--------------------------->
