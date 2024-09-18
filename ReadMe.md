@@ -64,7 +64,8 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
     [![Matplotlib](https://img.shields.io/badge/Matplotlib-blue.svg?logo=python&logoColor=white)](https://matplotlib.org)
     [![Seaborn](https://img.shields.io/badge/Seaborn-%233F4F75.svg?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org)
     [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
-    ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) 
+    ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
+    [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
     
   - [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-darkviolet?style=flat&logoColor=grey)](https://github.com/)
     ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
