@@ -39,20 +39,12 @@ Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 🌱 I’m passionate about data analytics, data engineering, machine learning, and deep learning.
 
-💬 Ask me about data analysis, machine learning, and ETL pipelines.
-
 📫 You can reach me at [arunp77@gmail.com](arunp77@gmail.com).
 
 🌐 **Socials:** I am also available on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/arunp77_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77)
-
-⚡ **Fun fact:** crazy about football.<br>
-
-📍 **Address:** Observable Universe/Virgo Supercluster/Milky Way Galaxy/Solar System/Earth/Europe/Germany <br>
-
-Feel free to explore my repositories and projects, and don't hesitate to reach out for collaboration or discussions!
 
 
 ## 💻 **Tech Stack:**
