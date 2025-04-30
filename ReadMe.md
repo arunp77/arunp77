@@ -39,7 +39,7 @@ Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 
 🌱 I’m passionate about data analytics, data engineering, machine learning, and deep learning.
 
-📫 You can reach me at [arunp77@gmail.com](arunp77@gmail.com).
+📫 You can reach me at 
 
 🌐 **Socials:** I am also available on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/arunp77_)
