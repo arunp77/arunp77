@@ -16,32 +16,28 @@
 https://readme-typing-svg.demolab.com/demo/ 
 https://github.com/DenverCoder1/readme-typing-svg
 ------>
-
-
-----
-
-<p> Few resources are as follows:</p>
-<ul>
-  <li>Please have a look on my open source python library at <a href="https://www.npmjs.com/package/mathlib-npm-new" target="_blanck">link</a>.</li>
-  <li>Application of <a href="https://arunp77.github.io/MonteCarlo-simulation/" target="_blanck">Monte-Carlo simulation</a> to finance.</li>
-  <li>Please visit <a href="https://arunp77.medium.com/" target="_blanck">My blog</a> to explore posts on Data science, Data engineering, and others.</li>
-  <li>Please visit my <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a></li>
-  <li>For Data enginnering tools, please visit my repos at <a href="https://arunp77.github.io/Data-engineering-tools/" target="_blank">Link</a></li>
-</ul>
-
-Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
-
---------------------------------------------------------------------------------------------
-
 <!----- 👋 Hi, I’m <b>Arun Kumar Pandey</b> (Hallo, ich bin Arun Kumar Pandey).<br> /-----> 
 
 🔭 I’m a data enthusiast with a background in astrophysics.
 
 🌱 I’m passionate about data analytics, data engineering, machine learning, and deep learning.
 
-📫 You can reach me at 
+----
 
-🌐 **Socials:** I am also available on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
+<p> Few resources are as follows:</p>
+<ul>
+  <li>My open source python library at <a href="https://www.npmjs.com/package/mathlib-npm-new" target="_blanck">link (still in development)</a>.</li>
+  <li>Application of <a href="https://arunp77.github.io/MonteCarlo-simulation/" target="_blanck">Monte-Carlo simulation</a> to finance.</li>
+  <li>My posts on <a href="https://arunp77.medium.com/" target="_blanck">Medium</a>related to Data science, Data engineering, and others.</li>
+  <li>My <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a>.</li>
+  <li>FSome of the data engineering tools are available at <a href="https://arunp77.github.io/Data-engineering-tools/" target="_blank">Link</a></li>
+</ul>
+
+Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
+
+--------------------------------------------------------------------------------------------
+
+📫 You can reach me at my social accounts: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/arunp77_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arunp77) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arunp77)
