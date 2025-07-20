@@ -27,10 +27,10 @@ https://github.com/DenverCoder1/readme-typing-svg
 <p> Few resources are as follows:</p>
 <ul>
   <li>My open source python library at <a href="https://www.npmjs.com/package/mathlib-npm-new" target="_blanck">link (still in development)</a>.</li>
-  <li>Application of <a href="https://arunp77.github.io/MonteCarlo-simulation/" target="_blanck">Monte-Carlo simulation</a> to finance.</li>
-  <li>My posts on <a href="https://arunp77.medium.com/" target="_blanck">Medium</a>related to Data science, Data engineering, and others.</li>
+  <li>Application of <a href="https://arunp77.github.io/MonteCarlo-simulation/" target="_blanck"> Monte-Carlo simulation</a> to finance.</li>
+  <li>My posts on <a href="https://arunp77.medium.com/" target="_blanck">Medium</a> related to Data science, Data engineering, and others.</li>
   <li>My <a href="https://sites.google.com/view/aruncosmo/home" target="_blanck">Academic website</a>.</li>
-  <li>FSome of the data engineering tools are available at <a href="https://arunp77.github.io/Data-engineering-tools/" target="_blank">Link</a></li>
+  <li>Some of the data engineering tools are available at <a href="https://arunp77.github.io/Data-engineering-tools/" target="_blank">Link</a></li>
 </ul>
 
 Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunp77) 
