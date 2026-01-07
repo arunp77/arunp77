@@ -120,6 +120,9 @@ Let's connect on linkedin: : [![LinkedIn](https://img.shields.io/badge/LinkedIn-
 ## 📊 GitHub Stats:
 
 [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunp77&bg_color=090811&color=e3eb44&line=b8119e&point=e9d6dc&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ![](https://github-readme-stats.vercel.app/api?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunp77&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
