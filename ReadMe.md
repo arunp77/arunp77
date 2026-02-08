@@ -141,7 +141,8 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!---- ![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4) ---->
+![](https://github-trophies.vercel.app/?username=arunp77)
 
 ---
 <!----[![](https://visitcount.itsvg.in/api?id=arunp77&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)--->
