@@ -28,8 +28,8 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 - 👨‍💻 All of my projects are available at [https://arunp77.github.io/](https://arunp77.github.io/)
 - 📝 I regularly write articles on [https://arunp77.medium.com/](https://arunp77.medium.com/)
-- [Interactive way to learn radiation entering earth atmosphere](https://arunp77.github.io/co2_radiation_explainer.html)
-- [Interactive way to learn radiative trasfer equations](https://arunp77.github.io/co2_radiative_transfer_equations.html)
+- [🌍🔰Interactive way to learn radiation entering earth atmosphere](https://arunp77.github.io/co2_radiation_explainer.html)
+- [🛰️📡Interactive way to learn radiative trasfer equations](https://arunp77.github.io/co2_radiative_transfer_equations.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
