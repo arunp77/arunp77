@@ -21,7 +21,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=500&color=F7D34E&width=435&lines=Hey+there!+%F0%9F%91%8B++I+am+Arun+Kumar+Pandey.;Welcome+to+my+profile.+;I+am+interested+in+Data+Science;Cosmology%2C+Astrophysics+and+Math)]()
 
-<h3 align="center">A passionate about complex data pipelines.</h3>
+<h3 align="center">A passionate about Science & Math.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunp77&label=Profile%20views&color=0e75b6&style=flat" alt="arunp77" /> </p>
 <p align="right"> <a href="https://x.com/arunp77_" target="blank"><img src="https://img.shields.io/twitter/follow/arunp77_?logo=twitter&style=for-the-badge" alt="arunp77_" /></a> </p>
