@@ -154,7 +154,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/87801682)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arunp77)
 
-Founding member of [Vision Analytica](https://visionspaceanalytica.github.io/).
+<!------Founding member of [Vision Analytica](https://visionspaceanalytica.github.io/). ----> 
 
 <!------
 https://github.com/anuraghazra/github-readme-stats
