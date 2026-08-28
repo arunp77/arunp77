@@ -2,6 +2,11 @@
 
 ![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/9ae48475-a048-4b6f-877b-277856737cc9)
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 <!---<a href="https://arunp77.github.io/" target="_blanck">Click here to see my portfolio 🔗</a>--->
 
 
