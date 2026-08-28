@@ -129,13 +129,13 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 ## 📊 GitHub Stats:
 
-[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunp77&bg_color=090811&color=e3eb44&line=b8119e&point=e9d6dc&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.shion.dev/api?username=arunp77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://github-readme-stats.vercel.app/api?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arunp77&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunp77&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arunp77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arunp77&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -144,6 +144,9 @@ https://github.com/DenverCoder1/readme-typing-svg
 ## 🏆 GitHub Trophies
 <!---- ![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4) ---->
 ![](https://github-trophies.vercel.app/?username=arunp77)
+
+
+
 
 ---
 <!----[![](https://visitcount.itsvg.in/api?id=arunp77&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)--->
