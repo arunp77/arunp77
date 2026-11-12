@@ -141,7 +141,6 @@ https://github.com/DenverCoder1/readme-typing-svg
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arunp77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arunp77&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -149,8 +148,6 @@ https://github.com/DenverCoder1/readme-typing-svg
 ## 🏆 GitHub Trophies
 <!---- ![](https://github-profile-trophy.vercel.app/?username=arunp77&theme=radical&no-frame=false&no-bg=true&margin-w=4) ---->
 ![](https://github-trophies.vercel.app/?username=arunp77)
-
-
 
 
 ---
