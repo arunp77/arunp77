@@ -35,7 +35,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 - 📝 I regularly write articles on [https://arunp77.medium.com/](https://arunp77.medium.com/)
 - 🌍🔰 [Interactive way to learn radiation entering earth atmosphere](https://arunp77.github.io/co2_radiation_explainer.html)
 - 🛰️📡 [Interactive way to learn radiative trasfer equations](https://arunp77.github.io/co2_radiative_transfer_equations.html)
-- 🌍[Climate Radiative Forcing](https://arunp77.github.io/Climate-Radiative-Forcing-Lab/)
+- 🌍 [Climate Radiative Forcing](https://arunp77.github.io/Climate-Radiative-Forcing-Lab/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
